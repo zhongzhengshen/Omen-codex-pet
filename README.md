@@ -57,6 +57,7 @@ Windows 示例路径：
 ```text
 .
 ├── contact-sheet.png
+├── LICENSE
 ├── pet.json
 ├── spritesheet.webp
 ├── README.md
@@ -79,9 +80,11 @@ Windows 示例路径：
 ### 来源与授权
 
 - 本仓库发布的是 Codex 自定义宠物资源：`pet.json`、`spritesheet.webp` 和预览图。
+- 本仓库中由作者制作和整理的文件采用 [MIT License](LICENSE) 开源。
 - 角色灵感来自 Valorant 角色 Omen 的粉丝向“兜帽猫猫”形象，但本仓库没有打包 Valorant 官方截图、Logo、UI、武器或官方立绘原图。
 - Valorant、Omen 及相关官方视觉设定归其权利方所有。
-- 公开分享时建议保持非商业用途，并保留本 README 中的非官方粉丝项目说明。
+- MIT 协议不授予 Valorant、Omen、Riot Games 或其他第三方 IP / 商标的任何权利。
+- 公开分享时建议保留本 README 中的非官方粉丝项目说明。
 
 ## English
 
@@ -132,6 +135,7 @@ If `CODEX_HOME` is not set, place the folder under your Codex configuration dire
 ```text
 .
 ├── contact-sheet.png
+├── LICENSE
 ├── pet.json
 ├── spritesheet.webp
 ├── README.md
@@ -154,6 +158,8 @@ Initial release:
 ### Credits And Rights
 
 - This repository publishes a Codex custom pet package: `pet.json`, `spritesheet.webp`, and preview images.
+- Files created and arranged by the author in this repository are released under the [MIT License](LICENSE).
 - The design is inspired by the fan-made hooded-cat interpretation of Valorant's Omen, but does not include Valorant official screenshots, logos, UI, weapons, or official character artwork.
 - Valorant, Omen, and related official visual designs belong to their respective rights holders.
-- Non-commercial sharing is recommended unless you have reviewed the relevant IP and trademark requirements.
+- The MIT License does not grant any rights to Valorant, Omen, Riot Games, or any other third-party IP or trademarks.
+- Please keep the unofficial fan-made project notice when sharing this pet.
