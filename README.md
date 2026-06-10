@@ -16,7 +16,7 @@
 
 ### 预览
 
-![Omen 动作总览](contact-sheet.png)
+![Omen 精灵图预览](spritesheet.png)
 
 ### 特色
 
@@ -59,6 +59,7 @@ Windows 示例路径：
 ├── contact-sheet.png
 ├── LICENSE
 ├── pet.json
+├── spritesheet.png
 ├── spritesheet.webp
 ├── README.md
 └── .gitignore
@@ -94,7 +95,7 @@ Omen is a fan-made custom desktop pet for Codex. It is a small hooded black cat 
 
 ### Preview
 
-![Omen contact sheet](contact-sheet.png)
+![Omen spritesheet preview](spritesheet.png)
 
 ### Features
 
@@ -137,6 +138,7 @@ If `CODEX_HOME` is not set, place the folder under your Codex configuration dire
 ├── contact-sheet.png
 ├── LICENSE
 ├── pet.json
+├── spritesheet.png
 ├── spritesheet.webp
 ├── README.md
 └── .gitignore
